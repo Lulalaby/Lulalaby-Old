@@ -1,4 +1,4 @@
-### Hi there, Lala Sabathil
+### Hi there, I'm Lala Sabathil
 
 ---
 
@@ -23,3 +23,7 @@
 ![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lulalaby&theme=solarized_dark)
 ![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lulalaby&theme=solarized_dark)
 ![Lala Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lulalaby&theme=solarized_dark)
+
+
+
+
