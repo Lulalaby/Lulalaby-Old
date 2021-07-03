@@ -4,7 +4,7 @@
 
 <br />
 
-- 👯 I’m looking to collaborate on interesting Projects
+- 👯 I’m looking forward to collaborate on interesting Projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I identify as cat sometimes and yes, I bite.
 
