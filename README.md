@@ -8,15 +8,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I identify as cat sometimes and yes, I bite.
 
-<br />
-
-
-<br />
-
-### ⚡ Contact:
-<a href="discord://-/users/856780995629154305">
-<img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
-</a>
+<br/>
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
