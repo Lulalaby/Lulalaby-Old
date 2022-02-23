@@ -6,8 +6,9 @@
 
 - 👯 I’m looking forward to collaborate on interesting Projects
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I identify as cat sometimes and yes, I bite.
+- ⚡ Fun fact: I identify as cat sometimes and yes I bite.
 - My Discord Lib: https://github.com/Aiko-IT-Systems/DisCatSharp
+- Working for https://sideplus.com
 
 <br/>
 
