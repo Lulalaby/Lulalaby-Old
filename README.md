@@ -11,6 +11,10 @@
 - Working for https://sideplus.com
 
 <br/>
+### 🏆 Holopin Badges:
+
+[![@lulalaby's Holopin board](https://holopin.io/api/user/board?user=lulalaby)](https://holopin.io/@lulalaby)
+<br/>
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
