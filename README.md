@@ -11,8 +11,8 @@
 - Working for https://sideplus.com
 
 <br/>
-### 🏆 Holopin Badges:
 
+### 🏆 Holopin Badges:
 [![@lulalaby's Holopin board](https://holopin.io/api/user/board?user=lulalaby)](https://holopin.io/@lulalaby)
 <br/>
 
