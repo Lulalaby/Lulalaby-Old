@@ -26,6 +26,8 @@
 ![Lalas github stats](https://github-readme-stats.vercel.app/api?username=lulalaby&theme=radical&show_icons=true&count_private=true)
   
  
+ > Note: Roff isn't used, it's a bug in one of my repos
+ 
 ![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lulalaby&theme=solarized_dark)
 ![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lulalaby&theme=solarized_dark)
 ![Lala Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lulalaby&theme=solarized_dark)
