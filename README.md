@@ -1,16 +1,15 @@
-### Hi there, I'm Lala Sabathil
-
----
-
-<br />
+## Hi there, I'm Lala Sabathil
 
 - 👯 I’m looking forward to collaborate on interesting Projects
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I identify as cat sometimes and yes I bite.
+- ⚡ Fun fact: Meow!
+- Feel free to join my discord: https://discord.gg/YDwcU3pYaR
+
+#### Notable projects
 - My Discord Lib: https://github.com/Aiko-IT-Systems/DisCatSharp
 - Working for https://sideplus.com
 
-<br/>
+---
 
 ### 🏆 Holopin Badges:
 [![@lulalaby's Holopin board](https://holopin.io/api/user/board?user=lulalaby)](https://holopin.io/@lulalaby)
