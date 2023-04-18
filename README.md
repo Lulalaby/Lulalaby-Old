@@ -3,7 +3,7 @@
 - 👯 I’m looking forward to collaborate on interesting Projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Meow!
-- Feel free to join my discord: https://discord.gg/YDwcU3pYaR
+- Feel free to join my discord: https://discord.gg/Uk7sggRBTm
 
 #### Notable projects
 - My Discord Lib: https://github.com/Aiko-IT-Systems/DisCatSharp
